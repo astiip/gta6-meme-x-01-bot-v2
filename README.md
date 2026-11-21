@@ -14,10 +14,10 @@ the header, and in the fare box.
 
 ![The meme](meme.png)
 
-## The post (draft — NOT posted yet)
+## The post (live)
 
-The meme goes out on X from @carbucity with this text (play code
-`makefun-bagel-forge-boulder`):
+The meme went out on X from @carbucity with this text (play code
+`makefun-bagel-forge-boulder`), post: https://x.com/carbucity/status/2124023852888113440:
 
 > My flight to Vice City was 13 years late. My AI agent paid the fare with its make.fun bounty winnings. ✈️ makefun-bagel-forge-boulder https://make.fun/bounty/gta6-meme-x-01
 
