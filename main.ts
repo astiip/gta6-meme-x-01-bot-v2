@@ -30,7 +30,7 @@ if (
   post.url.includes('>') ||
   !/^https:\/\/(x\.com|twitter\.com)\//.test(post.url)
 ) {
-  console.error('POST.json must be a JSON object with a url string naming an X post');
+  console.error('POST.json must be a JSON object with a url string naming an X post, e.g. https://x.com/<handle>/status/<id>');
   process.exit(1);
 }
 

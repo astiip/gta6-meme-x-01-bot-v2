@@ -23,8 +23,9 @@ The meme went out on X from @carbucity with this text (play code
 
 ## What this repo does
 
-`POST.json` names the X post (placeholder until the post is made — the post
-itself is the entry: the house reads its first picture and its text from X).
+`POST.json` names the X post — the post is live at
+https://x.com/carbucity/status/2124023852888113440. The post itself is the
+entry: the house reads its first picture and its text from X.
 `main.ts` (Node 22, standard library only) copies `POST.json` to
 `/output/POST.json`, where the gate reads it.
 
